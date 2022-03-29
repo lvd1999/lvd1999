@@ -2,10 +2,10 @@
 
 
 - 😄 Name: Patrick Lee
-- 🔭 I’m currently working on a Food Ordering App, UI Design Using React and Next.js
-- 🌱 I’m currently learning Next.js
-- 🤔 I’m looking for help with landing a job. (would prefer front-end developer)
+- 🔭 CS Graduate (2.1)
+- 🌱 Passionate in front-end development.
+- 🔰 Has been solving problems on Leetcode lately.
+- 🤔 I’m looking for landing a job. (would prefer front-end developer)
 - 💬 Ask me about anything.
-- 📫 How to reach me: honeybutteralmond.netlify.app
-- ⚡ Fun fact: I can speak 3 languages which are English, Chinese Mandarin and Malay
-
+- 📫 How to reach me: https://www.honeybutteralmond.com
+- ⚡ Fun fact: I can speak 3 languages which are English, Chinese Mandarin and Malay. (but ofc more programming languages 😁)
